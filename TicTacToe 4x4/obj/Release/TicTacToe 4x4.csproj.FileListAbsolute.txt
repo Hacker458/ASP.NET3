@@ -1,0 +1,15 @@
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\bin\Release\TicTacToe 4x4.exe.config
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\bin\Release\TicTacToe 4x4.exe
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\bin\Release\TicTacToe 4x4.pdb
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4.csprojAssemblyReference.cache
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\MainWindow.g.cs
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\App.g.cs
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4_MarkupCompile.cache
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4_MarkupCompile.lref
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\MainWindow.baml
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4.g.resources
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe_4x4.Properties.Resources.resources
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4.csproj.GenerateResource.cache
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4.csproj.CoreCompileInputs.cache
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4.exe
+C:\Users\Hacker\source\repos\ASP3\TicTacToe 4x4\obj\Release\TicTacToe 4x4.pdb
